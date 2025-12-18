@@ -1,7 +1,7 @@
 # 🎙️ Cloud-Based Voice Assistant: STT-LLM-TTS Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Colab](https://img.shields.io/badge/Google_Colab-Ready-orange)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julsm2001/ai-voice-assistant-pipeline/blob/main/Voice_Assistant_Pipeline.ipynb)
 ![Status](https://img.shields.io/badge/Status-Prototype-green)
 
 **Author:** Julián Machuca Ramírez
